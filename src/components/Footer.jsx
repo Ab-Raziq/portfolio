@@ -26,15 +26,30 @@ const Footer = () => {
           <h3>Follow Me</h3>
 
           <div className="social-icons">
-            <a href="#" aria-label="GitHub">
+            <a
+              href="https://github.com/Ab-Raziq"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="GitHub"
+            >
               <FaGithub />
             </a>
 
-            <a href="#" aria-label="Telegram">
+            <a
+              href="https://t.me/"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Telegram"
+            >
               <FaTelegram />
             </a>
 
-            <a href="#" aria-label="Instagram">
+            <a
+              href="https://www.instagram.com/"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Instagram"
+            >
               <FaInstagram />
             </a>
           </div>
