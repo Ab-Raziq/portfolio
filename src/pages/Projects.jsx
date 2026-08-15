@@ -19,7 +19,7 @@ const projects = [
     description:
       "A responsive add friend website built with HTML, CSS and JavaScript.",
     technology: "HTML • CSS • JavaScript",
-    image: "/add-friend.jpg",
+    image:process.env.PUBLIC_URL + "/add-friend.jpg",
     github: "https://github.com/Ab-Raziq/MY-Project-Html-Css/tree/fbc5a30178be26183e99076fdc83f93c9a01decc/add%20frined",
   },
 
@@ -30,7 +30,7 @@ const projects = [
       "My personal portfolio built with React and Bootstrap.",
     technology: "React • Bootstrap • CSS",
     image: "/portfolio.jpg",
-    github: "https://github.com/Ab-Raziq/",
+    github: "https://ab-raziq.github.io/portfolio/",
   },
 ];
 
