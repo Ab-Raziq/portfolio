@@ -8,7 +8,7 @@ const projects = [
     description:
       "A responsive gallery website built with HTML, CSS and JavaScript.",
     technology: "HTML • CSS • JavaScript",
-    image: "/Gallary.jpg",
+   image: process.env.PUBLIC_URL + "/Gallary.jpg"
     github:
       "https://github.com/Ab-Raziq/MY-Project-Html-Css/tree/fbc5a30178be26183e99076fdc83f93c9a01decc/Gallary",
   },
