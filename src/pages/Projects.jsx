@@ -40,6 +40,7 @@ const projects = [
     technology: "React • Bootstrap • CSS",
     image:process.env.PUBLIC_URL + "keller.jpg",
     github: "https://ab-raziq.github.io/MY-Project-Html-Css/keller/"
+  },
   
 ];
 
