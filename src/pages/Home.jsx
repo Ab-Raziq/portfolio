@@ -20,7 +20,10 @@ const Home = () => {
                 </button>
             </div>
             <div className="image">
-                <img src="/image.JPG" alt="img"></img>
+                 <img
+                    src={`${process.env.PUBLIC_URL}/image.JPG`}
+                    alt="Abdul Raziq"
+                />
             </div>
         </div>
     </>
