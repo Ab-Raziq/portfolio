@@ -7,7 +7,10 @@ const About = () => {
     <div className={`container-fluid container-about-hero ${darkMode ? "about dark" : "about"}`}>
       
       <div className="image-hero">
-        <img src="/image.JPG" alt="React Developer" />
+          <img
+            src={`${process.env.PUBLIC_URL}/image.jpg`}
+            alt="Abdul Raziq"
+          />
       </div>
 
       <div className="about-hero">
