@@ -30,7 +30,7 @@ const projects = [
       "My personal portfolio built with React and Bootstrap.",
     technology: "React • Bootstrap • CSS",
     image: "/portfolio.jpg",
-    github: "https://ab-raziq.github.io/portfolio/",
+    github: "https://ab-raziq.github.io/portfolio/"
   },
 ];
 
