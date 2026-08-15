@@ -37,7 +37,7 @@ const projects = [
     id: 4,
     title: "Keller Website",
     description: "A modern and responsive job search platform built with HTML, CSS and JavaScript, designed to help users discover and explore job opportunities with ease.",
-    technology: "React • Bootstrap • CSS",
+    technology: "Html • Bootstrap • CSS",
     image:process.env.PUBLIC_URL + "/keller.jpg",
     github: "https://ab-raziq.github.io/MY-Project-Html-Css/keller/"
   },
