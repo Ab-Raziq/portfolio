@@ -4,23 +4,22 @@ import { ThemeContext } from "../context/ThemeContext";
 const projects = [
   {
     id: 1,
-    title: "Gallery Website",
-    description:
-      "A responsive gallery website built with HTML, CSS and JavaScript.",
+    title: "Qr Website",
+    description: "A modern and responsive QR Code Generator built with HTML, CSS and JavaScript, featuring a clean UI and instant QR code generation." ,
     technology: "HTML • CSS • JavaScript",
-   image: process.env.PUBLIC_URL + "/Gallary.jpg",
+   image: process.env.PUBLIC_URL + "/qr.jpg",
     github:
-      "https://github.com/Ab-Raziq/MY-Project-Html-Css/tree/fbc5a30178be26183e99076fdc83f93c9a01decc/Gallary",
+      "https://ab-raziq.github.io/MY-Project-Html-Css/qr%20code/"
   },
 
   {
     id: 2,
-    title: "Add Friend App",
+    title: "Calculator App",
     description:
-      "A responsive add friend website built with HTML, CSS and JavaScript.",
+      "A responsive calculator website built with HTML, CSS and JavaScript.",
     technology: "HTML • CSS • JavaScript",
-    image:process.env.PUBLIC_URL + "/add-friend.jpg",
-    github: "https://github.com/Ab-Raziq/MY-Project-Html-Css/tree/fbc5a30178be26183e99076fdc83f93c9a01decc/add%20frined",
+    image:process.env.PUBLIC_URL + "/calculator.jpg",
+    github: "https://ab-raziq.github.io/MY-Project-Html-Css/calculator/"
   },
 
   {
